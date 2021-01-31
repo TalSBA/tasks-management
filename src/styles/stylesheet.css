@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+}
+
+.select {
+  width: 250px;
+  margin: 10px;
+}
+
+.btn-search {
+  text-transform: uppercase;
+  background-color: #ffffff;
+  margin: 0px 0px 0px 590px;
+  height: 30px;
+  width: 120px;
+  border: 1px solid rgba(22, 76, 167, 0.6);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-search:hover {
+  background-color: rgba(22, 76, 167, 0.6);
+}
+
+.btn-add{
+  cursor: pointer;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AhivYpqlCxlyKdujX3D-7vGDhGu_A7PvqA&usqp=CAU') no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 25px;
+  height: 25px;
+  border: none;
+  margin: -6px 0px 0px 0px;
+}
+
+.add-text{
+  top: -5px;
+  position: relative;
+}
+
+.query{
+  margin: 150px 0px 0px 400px;
+}
+
+.criterias-container{
+  display: flex;
+}
+
+.btn-delete{
+  margin: -90px 0px 0px 0px;
+}
