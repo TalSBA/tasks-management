@@ -4,8 +4,9 @@ React application for searching team tasks.
 
 ## Run
 
-npm install
-npm start
+clone repository \
+npm install \
+npm start 
 
 ## Live Demo
 
