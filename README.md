@@ -1,6 +1,7 @@
 # Tasks Management
 
 React application for searching team tasks.
+Using redux
 
 ## Run
 
